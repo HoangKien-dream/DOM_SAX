@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="users.xsd" xmlns="https://www.w3schools.com">
+    <user>
+        <employee id="1">
+            <firstName>Hoàng</firstName>
+            <lastName>Kiên</lastName>
+            <email>hoangkien@gmail.com</email>
+            <phone>0964866701</phone>
+            <age>20</age>
+            <position>Boss</position>
+            <department>MNSĐ</department>
+        </employee>
+    </user>
+    <user>
+        <teacher id="2">
+            <firstName>Minh</firstName>
+            <lastName>Thu</lastName>
+            <email>minhthu@gmail.com</email>
+            <phone>0964866702</phone>
+            <age>25</age>
+            <experience>15</experience>
+        </teacher>
+    </user>
+    <user>
+        <teacher id="3">
+            <firstName>Minh</firstName>
+            <lastName>Thu</lastName>
+            <email>minhthu@gmail.com</email>
+            <phone>0964866702</phone>
+            <age>25</age>
+            <experience>15</experience>
+        </teacher>
+    </user>
+    <user>
+        <teacher id="4">
+            <firstName>Thanh</firstName>
+            <lastName>Mai</lastName>
+            <email>thanhmai@gmail.com</email>
+            <phone>0964866702</phone>
+            <age>10</age>
+            <experience>5</experience>
+        </teacher>
+    </user>
+    <user>
+        <employee id="5">
+            <firstName>Luka</firstName>
+            <lastName>Chim</lastName>
+            <email>lukaku@gmail.com</email>
+            <phone>0964866701</phone>
+            <age>28</age>
+            <position>St</position>
+            <department>Chelsea</department>
+        </employee>
+    </user>
+</users>
